@@ -27,7 +27,8 @@ A API oferece as seguintes funcionalidades:
             "título": "O Hobbit",
             "autor": "J.R.R. Tolkien"
         }
-        ```
+        ```git log
+
 
 *   **Atualizar um livro existente:**
     *   Método: `PUT`
@@ -53,7 +54,7 @@ A API oferece as seguintes funcionalidades:
     git clone <url-do-repositorio>
     cd <nome-do-diretorio>
     ```
-
+    
 2.  **Crie e ative um ambiente virtual:**
     ```bash
     python3 -m venv venv
